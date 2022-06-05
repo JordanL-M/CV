@@ -1,0 +1,40 @@
+body {
+    background-color: #072227;
+    }
+
+hr {
+    border-style: none;
+    background-color: #072227;
+    border-top: 4px dotted #AEFEFF;
+    width: 10%;
+    }
+
+img {
+    height: 150px;
+    border-radius: 100%;
+    }
+
+h1 {
+    color: #35858B;
+}
+
+h3 {
+    color: #35858B;
+    text-decoration: underline;
+}
+
+p1 {
+    color: #4FBDBA
+}
+
+td {
+    color: #4FBDBA
+}
+
+li {
+    color: #4FBDBA
+}
+
+label {
+    color: #4FBDBA
+}
